@@ -1,6 +1,6 @@
-var CoffeeTransfer = {
+var coffeeTransfer = {
 
-    name: "CoffeeTransfer",
+    name: "coffeeTransfer",
     desc: "주어진 원화 금액을 커피 잔 수로 환산해주는 라이브러리 입니다.",
 
     cofffeeName: "UNKNOWN",
